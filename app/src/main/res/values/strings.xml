@@ -24,4 +24,5 @@
     <string name="reset_instruction">Enter your registered email address or username</string>
     <string name="email_address_username">Email address/username</string>
     <string name="goto_back">goto back</string>
+    <string name="show_or_hide_password">Show or hide password</string>
 </resources>
